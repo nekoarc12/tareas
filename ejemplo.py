@@ -1,0 +1,5 @@
+print ("hola mundo")
+print ("este es mi primer programa")
+print ("Samuel Sanchez")
+print (4+3)
+print (4)
